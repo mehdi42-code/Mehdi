@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VisionaryAI - Smart Eyewear Stylist",
+  "description": "An AI-powered virtual try-on and optical consultant. Upload your photo, try on generated glasses, refine styles with chat, and find shoppable links.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
